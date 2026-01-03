@@ -4,7 +4,7 @@ Software Developer focused on building real, production-ready web applications.
 
 Currently working as a **MERN Stack Developer (Apprenticeship)** at **DevXtra, Ernakulam**, where I build and maintain full-stack applications with real users, real data, and real constraints.
 
-Exploring **Blockchain fundamentals** and **applied Machine Learning** alongside strengthening backend systems and deployment workflows.
+Focused on backend architecture, system design, and deployment workflows, with ongoing exposure to Blockchain fundamentals.
 
 ---
 
@@ -77,9 +77,23 @@ End-to-end eCommerce application with authentication, cart management, order wor
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favazmubarak)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favazkoppath10@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/<your-username>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](<your-portfolio-link>)
+## 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/favazmubarak">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:favazkoppath10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/<your-username>">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="<your-portfolio-link>">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 ---
