@@ -4,7 +4,7 @@ Software Developer focused on building real, production-ready web applications.
 
 Currently working as a **MERN Stack Developer (Apprenticeship)** at **DevXtra, Ernakulam**, where I build and maintain full-stack applications with real users, real data, and real constraints.
 
-Focused on backend architecture, system design, and deployment workflows, with ongoing exposure to Blockchain fundamentals.
+Continuously strengthening full-stack development skills by working on real-world projects, improving backend architecture, and adopting new tools and patterns when they solve real production problems.
 
 ---
 
@@ -58,10 +58,9 @@ A professional networking and real-time communication platform focused on scalab
 - Designing backend services for user profiles, connections, and discovery workflows
 - Implementing authentication with JWT and role-based access control
 - Building real-time features using WebSockets and WebRTC
-- Focusing on clean architecture, performance, and future scalability
+- Emphasizing clean architecture, performance, and long-term scalability
 
-**Tech:** Node.js, TypeScript, MongoDB, PostgreSQL, Redis, WebSockets
-
+**Tech:** Node.js, TypeScript, MongoDB, PostgreSQL, Redis, WebSockets  
 👉 Repo: https://github.com/devxtra-community/confero
 
 ---
@@ -70,7 +69,6 @@ A professional networking and real-time communication platform focused on scalab
 End-to-end eCommerce application with authentication, cart management, order workflows, and admin controls, deployed on cloud infrastructure.
 
 **Tech:** React, Node.js, Express, MongoDB, JWT, Azure  
-
 👉 Repo: https://github.com/Favazmubarak/dx-ecommerce-frontend
 
 ---
@@ -80,34 +78,16 @@ End-to-end eCommerce application with authentication, cart management, order wor
 <div align="center">
 
 <a href="https://www.linkedin.com/in/favazmubarak">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    style="margin: 6px;"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin:6px;" />
 </a>
-
 <a href="mailto:favazkoppath10@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    style="margin: 6px;"
-  />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin:6px;" />
 </a>
-
 <a href="https://www.instagram.com/<your-username>">
-  <img
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    style="margin: 6px;"
-  />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin:6px;" />
 </a>
-
 <a href="<your-portfolio-link>">
-  <img
-    src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"
-    style="margin: 6px;"
-  />
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" style="margin:6px;" />
 </a>
 
 </div>
-
-
----
