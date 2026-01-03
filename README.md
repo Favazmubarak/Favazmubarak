@@ -1,4 +1,14 @@
-# Hey, I’m Ahammed Favaz 
+<h1 align="center">
+  Hi, I'm Ahammed Favaz 👋
+</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Engineer"
+    alt="Typing animation"
+  />
+</p>
+
 
 Software Developer focused on building real, production-ready web applications.
 
