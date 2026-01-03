@@ -1,12 +1,13 @@
 <h1>
-  Hi, I'm Ahammed Favaz 
+  <code style="color:#16A34A;"><strong>Ahammed Favaz K M</strong></code>
 </h1>
 
+
 <p>
-  <img
-  src="https://readme-typing-svg.herokuapp.com?size=24&duration=5000&pause=1500&color=0A66C2&center=true&vCenter=true&width=540&lines=Building+Production-Ready+Systems"
-  alt="Typing animation"
-/>
+ <img
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=16A34A&width=500&lines=Software+Developer;Full+Stack+Engineer"
+    alt="Typing animation"
+  />
 </p>
 
 
