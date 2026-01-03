@@ -62,6 +62,7 @@ A professional networking and real-time communication platform focused on scalab
 
 **Tech:** Node.js, TypeScript, MongoDB, PostgreSQL, Redis, WebSockets
 👉 Repo: https://github.com/devxtra-community/confero
+
 ---
 
 ### ⌚ WatchWave – Full Stack eCommerce Platform
