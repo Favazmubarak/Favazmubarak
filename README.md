@@ -1,8 +1,14 @@
-<h1 align="center"><code style="color:#0A66C2;">Ahammed Favaz K M</code></h1>
+<h1 align="center">
+  Hi, I'm Ahammed Favaz 👋
+</h1>
 
 <p align="center">
-  Software Developer · Full-Stack · Production-Focused
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=#16A34A&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Engineer"
+    alt="Typing animation"
+  />
 </p>
+
 
 
 
