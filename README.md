@@ -77,23 +77,37 @@ End-to-end eCommerce application with authentication, cart management, order wor
 
 ## 🤝 Connect with Me
 
-## 🤝 Connect with Me
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/favazmubarak">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    style="margin: 6px;"
+  />
 </a>
+
 <a href="mailto:favazkoppath10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    style="margin: 6px;"
+  />
 </a>
+
 <a href="https://www.instagram.com/<your-username>">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    style="margin: 6px;"
+  />
 </a>
+
 <a href="<your-portfolio-link>">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"
+    style="margin: 6px;"
+  />
 </a>
 
 </div>
+
 
 ---
