@@ -1,7 +1,4 @@
-<h1>
-  <code style="color:#16A34A;"><strong>Ahammed Favaz K M</strong></code>
-</h1>
-
+<h1> Hi, I'm AHAMMED FAVAZ K M </h1>
 
 <p>
  <img
