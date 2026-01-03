@@ -48,7 +48,7 @@ Exploring **Blockchain fundamentals** and **applied Machine Learning** alongside
 Real-world system built for a high-traffic café handling **250+ daily users**, providing live queue tracking, status updates, and a responsive customer-facing interface.
 
 **Tech:** React, Node.js, MongoDB, WebSockets  
-👉 Repo: <link_here>
+👉 Repo: https://github.com/javaadde/order-table
 
 ---
 
