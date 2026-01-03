@@ -58,9 +58,9 @@ Continuously strengthening full-stack development skills by working on real-worl
 ###  Local Café Queue & Status Management System
 Real-world system built for a high-traffic café handling **250+ daily users**, providing live queue tracking, status updates, and a responsive customer-facing interface.
 
-**Tech:** React, Node.js, MongoDB, WebSockets  
+**Tech:** React, Node.js, MongoDB, WebSockets 
+
  Link: https://chai-couple-chafe.vercel.app/
- 
  Repo: https://github.com/javaadde/order-table
 
 ---
