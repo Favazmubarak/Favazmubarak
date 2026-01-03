@@ -1,4 +1,4 @@
-# Hey, I’m Ahammed Favaz 👋
+# Hey, I’m Ahammed Favaz 
 
 Software Developer focused on building real, production-ready web applications.
 
@@ -8,7 +8,7 @@ Continuously strengthening full-stack development skills by working on real-worl
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,18 +42,18 @@ Continuously strengthening full-stack development skills by working on real-worl
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### ☕ Local Café Queue & Status Management System
+###  Local Café Queue & Status Management System
 Real-world system built for a high-traffic café handling **250+ daily users**, providing live queue tracking, status updates, and a responsive customer-facing interface.
 
 **Tech:** React, Node.js, MongoDB, WebSockets  
-Link: https://chai-couple-chafe.vercel.app/
-👉 Repo: https://github.com/javaadde/order-table
+ Link: https://chai-couple-chafe.vercel.app/
+ Repo: https://github.com/javaadde/order-table
 
 ---
 
-### 🌐 Conferoo (In Progress)
+###  Conferoo (In Progress)
 A professional networking and real-time communication platform focused on scalable backend architecture and live interactions.
 
 - Designing backend services for user profiles, connections, and discovery workflows
@@ -62,19 +62,19 @@ A professional networking and real-time communication platform focused on scalab
 - Emphasizing clean architecture, performance, and long-term scalability
 
 **Tech:** Node.js, TypeScript, MongoDB, PostgreSQL, Redis, WebSockets  
-👉 Repo: https://github.com/devxtra-community/confero
+ Repo: https://github.com/devxtra-community/confero
 
 ---
 
-### ⌚ WatchWave – Full Stack eCommerce Platform
+###  WatchWave – Full Stack eCommerce Platform
 End-to-end eCommerce application with authentication, cart management, order workflows, and admin controls, deployed on cloud infrastructure.
 
 **Tech:** React, Node.js, Express, MongoDB, JWT, Azure  
-👉 Repo: https://github.com/Favazmubarak/dx-ecommerce-frontend
+ Repo: https://github.com/Favazmubarak/dx-ecommerce-frontend
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favazmubarak)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favazkoppath10@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmd.devx)
