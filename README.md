@@ -74,5 +74,5 @@ End-to-end eCommerce application with authentication, cart management, order wor
 
 ## 📫 Connect
 - GitHub: https://github.com/<your-username>
-- LinkedIn: linkedin.com/in/favazmubarak
+- LinkedIn: https://www.linkedin.com/in/favazmubarak
 - Email: favazkoppath10@gmail.com
