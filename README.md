@@ -48,6 +48,7 @@ Continuously strengthening full-stack development skills by working on real-worl
 Real-world system built for a high-traffic café handling **250+ daily users**, providing live queue tracking, status updates, and a responsive customer-facing interface.
 
 **Tech:** React, Node.js, MongoDB, WebSockets  
+Link: https://chai-couple-chafe.vercel.app/
 👉 Repo: https://github.com/javaadde/order-table
 
 ---
@@ -74,7 +75,6 @@ End-to-end eCommerce application with authentication, cart management, order wor
 ---
 
 ## 🤝 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favazmubarak)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favazkoppath10@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmd.devx)
