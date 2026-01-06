@@ -85,7 +85,7 @@ A professional networking and real-time communication platform focused on scalab
  Repo: https://github.com/devxtra-community/confero
 
 ---
-
+ 
 ###  WatchWave – Full Stack eCommerce Platform
 End-to-end eCommerce application with authentication, cart management, order workflows, and admin controls, deployed on cloud infrastructure.
 
