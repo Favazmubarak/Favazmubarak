@@ -6,7 +6,7 @@
     alt="Typing animation"
   />
 </p>
-
+ 
 
 
 
