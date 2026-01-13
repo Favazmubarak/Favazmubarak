@@ -9,7 +9,6 @@
 
 
 
-
 Software Developer focused on building real, production-ready web applications.
 
 Currently working as a **MERN Stack Developer (Apprenticeship)** at **DevXtra, Ernakulam**, where I build and maintain full-stack applications with real users, real data, and real constraints.
