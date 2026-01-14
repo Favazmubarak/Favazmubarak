@@ -7,7 +7,6 @@
   />
 </p>
 
-
  
 Software Developer focused on building real, production-ready web applications.
 
