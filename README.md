@@ -54,7 +54,6 @@ Continuously strengthening full-stack development skills by working on real-worl
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
