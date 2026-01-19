@@ -15,7 +15,7 @@ Currently working as a **MERN Stack Developer (Apprenticeship)** at **DevXtra, E
 Continuously strengthening full-stack development skills by working on real-world projects, improving backend architecture, and adopting new tools and patterns when they solve real production problems.
 
 ---
- 
+
 ##  Tech Stack
 
 ### Frontend
