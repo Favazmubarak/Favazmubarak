@@ -1,4 +1,4 @@
-<h1> Hi, I'm AHAMMED FAVAZ K M </h1>
+<h1> Hi, I'am AHAMMED FAVAZ K M </h1>
 
 <p>
  <img
