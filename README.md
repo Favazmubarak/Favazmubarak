@@ -69,7 +69,7 @@ Real-world system built for a high-traffic café handling **250+ daily users**, 
  
 ---
 
-###  Conferoo (In Progress)
+###  Professional Networking & Real-Time Communication Platform (In Progress)
 A professional networking and real-time communication platform focused on scalable backend architecture and live interactions.
 
 - Designing backend services for user profiles, connections, and discovery workflows
