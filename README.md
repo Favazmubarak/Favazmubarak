@@ -78,6 +78,7 @@ A professional networking and real-time communication platform focused on scalab
 - Emphasizing clean architecture, performance, and long-term scalability
 
 **Tech:** Node.js, TypeScript, MongoDB, PostgreSQL, Redis, WebSockets  
+ Link: https://www.conferoo.in/
  Repo: https://github.com/devxtra-community/confero
 
 ---
