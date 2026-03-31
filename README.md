@@ -150,16 +150,6 @@ Currently building toward:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Favazmubarak&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
-
 ## Contribution Graph
 
 <div align="center">
@@ -179,18 +169,6 @@ Currently building toward:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Favazmubarak/Favazmubarak/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Favazmubarak/Favazmubarak/output/github-snake.svg" />
 </picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
-
-## Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-favazmubarak.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
-> *Music is the background process that never crashes.*
 
 </div>
 
