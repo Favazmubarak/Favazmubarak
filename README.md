@@ -10,13 +10,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favazmubarak)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:favazkoppath10@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ahmd.devx)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/917510363359?text=Hi%2C%20I%20am%20interested%20in%20hiring%20you.)
+[![WhatsApp](https://img.shields.io/badge/Hire%20Me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/917510363359?text=Hi%2C%20I%20am%20interested%20in%20hiring%20you.)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Favazmubarak&style=flat-square&color=16A34A&label=profile+views)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
 
 ## About
 
@@ -24,7 +24,7 @@ Software Developer focused on building real, production-ready web applications.
 
 Currently working as a **MERN Stack Developer (Apprenticeship)** at **DevXtra, Ernakulam** — building and maintaining full-stack applications with real users, real data, and real constraints. I continuously strengthen my backend skills through production work, and I adopt new tools when they solve actual problems, not just because they're trending.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
 
 ## Tech Stack
 
@@ -62,7 +62,7 @@ Currently working as a **MERN Stack Developer (Apprenticeship)** at **DevXtra, E
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
 
 ## Featured Projects
 
@@ -94,7 +94,7 @@ A scalable platform focused on real-time interactions — user profiles, connect
 ### Chai Couple Café
 **Queue & Order Management System**
 
-Built for a real high-traffic café handling **250+ daily users**. Live queue tracking and status updates that people depend on every day.
+Built for a real high-traffic café handling **250+ daily users**. Live queue tracking and status updates that people depend on every single day.
 
 - Live updates via WebSockets
 - Responsive customer-facing interface
@@ -148,7 +148,53 @@ Currently building toward:
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
+
+## Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Favazmubarak&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
+
+## Contribution Graph
+
+<div align="center">
+
+[![Favaz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Favazmubarak&theme=react-dark&bg_color=0d1117&color=16A34A&line=16A34A&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Favazmubarak/Favazmubarak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Favazmubarak/Favazmubarak/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Favazmubarak/Favazmubarak/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
+
+## Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-favazmubarak.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+
+> *Music is the background process that never crashes.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
 
 ## Connect
 
