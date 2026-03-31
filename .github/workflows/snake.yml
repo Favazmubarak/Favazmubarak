@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -22,7 +19,6 @@ jobs:
 
       - name: Generate snake SVGs
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: Favazmubarak
           outputs: |
@@ -33,11 +29,13 @@ jobs:
 
       - name: Push to output branch
         run: |
-          cd dist
-          git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b output
-          git add .
-          git commit -m "chore: update snake animation"
+          git add dist/github-snake.svg dist/github-snake-dark.svg
+          git stash
+          git fetch origin output 2>/dev/null || true
+          git checkout --orphan output 2>/dev/null || git checkout output
+          git checkout stash -- dist/github-snake.svg dist/github-snake-dark.svg
+          git add dist/github-snake.svg dist/github-snake-dark.svg
+          git commit -m "chore: update snake animation" --allow-empty
           git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Favazmubarak/Favazmubarak.git" output
