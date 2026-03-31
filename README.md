@@ -22,7 +22,7 @@
 
 Software Developer focused on building real, production-ready web applications.
 
-Currently working as a **MERN Stack Developer (Apprenticeship)** at **DevXtra, Ernakulam** — building and maintaining full-stack applications with real users, real data, and real constraints. I continuously strengthen my backend skills through production work, and I adopt new tools when they solve actual problems, not just because they're trending.
+Currently working as a **MERN Stack Developer** at **DevXtra, Ernakulam** — building and maintaining full-stack applications with real users, real data, and real constraints. I continuously strengthen my backend skills through production work, and I adopt new tools when they solve actual problems, not just because they're trending.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
 
