@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=16A34A&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Engineer;Building+real+apps+for+real+users" alt="Typing SVG" />
 
 <br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://ahmdfavaz.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favazmubarak)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:favazkoppath10@gmail.com)
