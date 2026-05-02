@@ -131,18 +131,22 @@ End-to-end commerce application with auth, cart management, order workflows, and
 </td>
 <td width="50%" valign="top">
 
-### What's next
+### Topo
+**Custom CMS & Live Sync Website**
 
-Currently building toward:
+A production client project — full custom CMS with real-time sync, admin portal, and media management built on Next.js 16.
 
-```
-→ Conferoo v1 public launch
-→ Distributed systems with Go
-→ Open source contributions
-→ More production-grade tools
-```
+- Real-time live sync: admin changes reflect in 10–15s via client-side polling
+- JWT + edge middleware securing the admin portal
+- Cloudinary for automated WebP/AVIF delivery
 
-*All work in progress. Always.*
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live-topo--ecommerce-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://topo-ecommerce.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Favazmubarak/topo_ecommerce)
 
 </td>
 </tr>
