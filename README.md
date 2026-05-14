@@ -145,7 +145,7 @@ A production client project — full custom CMS with real-time sync, admin porta
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-[![Live](https://img.shields.io/badge/Live-topo--ecommerce-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://topo-ecommerce.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-topo--ecommerce-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://topotechnology.com/)
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Favazmubarak/topo_ecommerce)
 
 </td>
