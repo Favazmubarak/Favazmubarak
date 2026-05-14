@@ -152,7 +152,7 @@ A production client project — full custom CMS with real-time sync, admin porta
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
+<img src="https://topotechnology.com/api?type=rect&color=16A34A&height=2&section=header" />
 
 ## Contribution Graph
 
