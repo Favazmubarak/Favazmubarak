@@ -20,23 +20,26 @@
 
 ## About
 
-Software Developer focused on building real, production-ready web applications.
+Full Stack Developer focused on backend-heavy web applications, real-time systems, and production deployment.
 
-Currently working as a **Freelance MERN Developer** at **Codeedex Technologies, Perinthalmanna** — building and maintaining full-stack applications with real users, real data, and real constraints. I continuously strengthen my backend skills through production work, and I adopt new tools when they solve actual problems, not just because they're trending.
+Currently working on client-facing applications involving authentication systems, real-time communication, CMS workflows, queue management, and scalable REST APIs using the MERN stack.
 
-**Actively open to full-time MERN Stack / Full Stack Developer roles.**
+Most of my experience comes from building and deploying projects used by actual users, not tutorial clones. I’m especially interested in backend architecture, performance optimization, and building systems that remain maintainable as complexity grows.
+
+**Open to full-time MERN Stack / Full Stack Developer opportunities.**
 
 ### Experience
 
 **Freelance MERN Developer** · Codeedex Technologies, Perinthalmanna · *Apr 2026 – Present*
-- Building and maintaining full-stack web applications for real clients
-- Handling end-to-end development — from requirements to deployment
-- Working independently while actively pursuing full-time opportunities
+- Developing and maintaining full-stack web applications for client requirements across frontend, backend, and deployment workflows
+- Building REST APIs, authentication systems, CMS features, and real-time functionality using the MERN stack
+- Managing deployment pipelines, production fixes, and iterative feature updates based on real-world usage feedback
+- Collaborating directly with clients and handling end-to-end implementation from requirement analysis to deployment
 
 **MERN Stack Apprentice** · Devxtra, Coimbatore · *Jun 2025 – Apr 2026*
-- Completed structured training across MERN stack, TypeScript, and Next.js
-- Built production-level projects including Confero and WatchWave
-- Worked with Redis, RabbitMQ, GitHub Actions CI/CD, and Azure deployment
+- Completed intensive hands-on training in MERN stack development, TypeScript, and Next.js
+- Built multiple deployment-ready applications involving authentication, real-time systems, CI/CD, and cloud deployment
+- Worked with Redis, RabbitMQ, WebSockets, GitHub Actions, and Azure deployment workflows
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
 
@@ -85,13 +88,14 @@ Currently working as a **Freelance MERN Developer** at **Codeedex Technologies, 
 <td width="50%" valign="top">
 
 ### Conferoo
-**Professional Networking & Real-Time Communication Platform**
+**Real-Time Networking & Communication Platform**
 
-A scalable platform focused on real-time interactions — user profiles, connections, and live communication built to last under pressure.
+Real-time networking platform built with a backend-first architecture focused on low-latency communication and scalable session handling.
 
-- JWT auth + role-based access control
-- Real-time via WebSockets & WebRTC
-- Clean backend architecture from the ground up
+- Built WebSocket + WebRTC communication flows supporting live user interaction and peer-to-peer media exchange
+- Designed role-based authentication and protected API architecture using JWT and middleware-based access control
+- Integrated Redis caching and PostgreSQL alongside MongoDB to separate transactional and real-time workloads
+- Structured backend services and socket handlers to reduce coupling and simplify future feature expansion
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -106,13 +110,14 @@ A scalable platform focused on real-time interactions — user profiles, connect
 <td width="50%" valign="top">
 
 ### Chai Couple Café
-**Queue & Order Management System**
+**Production Queue & Order Management System**
 
-Built for a real high-traffic café handling **250+ daily users**. Live queue tracking and status updates that people depend on every single day.
+Production queue and order management system currently used in a high-traffic café environment with 250+ daily active users.
 
-- Live updates via WebSockets
-- Responsive customer-facing interface
-- Deployed and running in active production
+- Built real-time queue synchronization using WebSockets to eliminate manual order coordination delays
+- Designed responsive customer and admin interfaces optimized for fast updates in high-turnover usage scenarios
+- Implemented live order status tracking to improve operational visibility for both staff and customers
+- Focused heavily on deployment stability, fast UI response, and minimal interaction friction for non-technical users
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -167,6 +172,15 @@ A production client project — full custom CMS with real-time sync, admin porta
 </table>
 
 <img src="https://topotechnology.com/api?type=rect&color=16A34A&height=2&section=header" />
+
+## Engineering Focus
+
+- Backend architecture and scalable REST API design
+- Authentication and authorization systems using JWT and middleware
+- Real-time systems with WebSockets and WebRTC
+- Deployment workflows, CI/CD, and production debugging
+- Performance optimization and maintainable frontend architecture
+- Building applications used by real users in production environments
 
 ## Contribution Graph
 
