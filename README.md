@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16A34A&height=200&section=header&text=AHAMMED%20FAVAZ%20K%20M&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%40%20DevXtra&descSize=16&descAlignY=58&descColor=d1fae5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16A34A&height=200&section=header&text=AHAMMED%20FAVAZ%20K%20M&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Open%20to%20Full-Time%20Roles&descSize=16&descAlignY=58&descColor=d1fae5" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=16A34A&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Engineer;Building+real+apps+for+real+users" alt="Typing SVG" />
 
@@ -22,7 +22,21 @@
 
 Software Developer focused on building real, production-ready web applications.
 
-Currently working as a **MERN Stack Developer** at **DevXtra, Ernakulam** — building and maintaining full-stack applications with real users, real data, and real constraints. I continuously strengthen my backend skills through production work, and I adopt new tools when they solve actual problems, not just because they're trending.
+Currently working as a **Freelance MERN Developer** at **Codeedex Technologies, Perinthalmanna** — building and maintaining full-stack applications with real users, real data, and real constraints. I continuously strengthen my backend skills through production work, and I adopt new tools when they solve actual problems, not just because they're trending.
+
+**Actively open to full-time MERN Stack / Full Stack Developer roles.**
+
+### Experience
+
+**Freelance MERN Developer** · Codeedex Technologies, Perinthalmanna · *Apr 2026 – Present*
+- Building and maintaining full-stack web applications for real clients
+- Handling end-to-end development — from requirements to deployment
+- Working independently while actively pursuing full-time opportunities
+
+**MERN Stack Apprentice** · Devxtra, Coimbatore · *Jun 2025 – Apr 2026*
+- Completed structured training across MERN stack, TypeScript, and Next.js
+- Built production-level projects including Confero and WatchWave
+- Worked with Redis, RabbitMQ, GitHub Actions CI/CD, and Azure deployment
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=2&section=header" />
 
