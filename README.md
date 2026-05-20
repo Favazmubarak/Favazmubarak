@@ -36,7 +36,7 @@ Most of my experience comes from building and deploying projects used by actual 
 - Managing deployment pipelines, production fixes, and iterative feature updates based on real-world usage feedback
 - Collaborating directly with clients and handling end-to-end implementation from requirement analysis to deployment
 
-**MERN Stack Apprentice** · Devxtra, Coimbatore · *Jun 2025 – Apr 2026*
+**MERN Stack Apprentice** · Devxtra, Ernakulam · *Jun 2025 – Apr 2026*
 - Completed intensive hands-on training in MERN stack development, TypeScript, and Next.js
 - Built multiple deployment-ready applications involving authentication, real-time systems, CI/CD, and cloud deployment
 - Worked with Redis, RabbitMQ, WebSockets, GitHub Actions, and Azure deployment workflows
